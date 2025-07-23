@@ -1,0 +1,244 @@
+customerID;gender;Partner;Dependents;PhoneService;InternetService;OnlineSecurity;Contract;State;Education;MonthlyCharges;mBUp
+7590-VHVEG;Female;Yes;No;No;DSL;No;Month-to-month;A;Pr;9.850225;5.2451125
+5575-GNVDE;Male;No;No;No;DSL;Yes;One year;A;Pr;64.393025;43.0765125
+3668-QPYBK;Male;No;No;No;DSL;Yes;Month-to-month;A;Pr;30.878225;16.0791125
+7795-CFOCW;Male;No;No;No;DSL;Yes;One year;A;Pr;60.1929;44.49645
+9237-HQITU;Female;No;No;No;DSL;No;Month-to-month;A;Pr;51.8649;26.57245
+6047-YHPVI;Male;No;No;No;Fiber optic;No;Month-to-month;A;Pr;53.2809;28.24045
+6572-ADKRS;Female;No;No;No;Fiber optic;No;Month-to-month;A;Pr;99.1904;64.3152
+5380-WJKOV;Male;No;No;No;Fiber optic;No;Month-to-month;A;Pr;145.063225;83.4116125
+8168-UQWWF;Female;No;No;No;Fiber optic;No;Month-to-month;A;Pr;106.086225;56.5631125
+8865-TNMNX;Male;Yes;Yes;No;DSL;No;One year;A;Pr;33.952025;20.1760125
+9489-DEDVP;Female;Yes;Yes;No;DSL;Yes;Two year;A;Pr;113.6864;79.2432
+9867-JCZSP;Female;Yes;Yes;No;No;No internet service;One year;A;Pr;20.285625;15.5828125
+4671-VJLCL;Female;No;No;No;DSL;Yes;Two year;A;Pr;122.980225;81.6501125
+4080-IIARD;Female;Yes;No;No;DSL;Yes;Month-to-month;A;Pr;70.2844;39.3022
+3714-NTNFO;Female;No;No;No;Fiber optic;No;Month-to-month;A;Pr;117.4625;74.41125
+5948-UJZLF;Male;No;No;No;DSL;No;Month-to-month;A;Pr;26.135625;13.7078125
+7760-OYPDY;Female;No;No;No;Fiber optic;No;Month-to-month;A;Pr;66.924225;34.1021125
+7639-LIAYI;Male;No;No;No;DSL;Yes;Two year;B;Pr;112.480625;72.8803125
+2954-PIBKO;Female;Yes;Yes;No;DSL;Yes;Two year;B;Pr;106.012225;75.0861125
+8012-SOUDQ;Female;No;No;No;Fiber optic;No;Month-to-month;B;Pr;121.870625;74.6953125
+9420-LOJKX;Female;No;No;No;Fiber optic;Yes;Month-to-month;B;Pr;112.3081;60.95405
+6575-SUVOI;Female;Yes;No;No;DSL;Yes;Month-to-month;B;Pr;71.8025;43.90125
+7495-OOKFY;Female;Yes;No;No;Fiber optic;No;Month-to-month;B;Pr;72.564225;38.8421125
+4667-QONEA;Female;Yes;Yes;No;DSL;Yes;One year;B;Pr;112.425225;75.4126125
+1658-BYGOY;Male;No;No;No;Fiber optic;No;Month-to-month;B;Pr;108.027025;59.7735125
+8769-KKTPH;Female;Yes;Yes;No;Fiber optic;Yes;One year;B;Pr;158.521225;99.4206125
+5067-XJQFU;Male;Yes;Yes;No;Fiber optic;No;One year;B;Pr;179.654025;110.9470125
+3957-SQXML;Female;Yes;Yes;No;Fiber optic;No internet service;Two year;B;Pr;38.185025;29.9725125
+5954-BDFSG;Female;No;No;No;Fiber optic;No;Two year;B;Pr;183.2425;114.66125
+0434-CSFON;Female;Yes;No;No;Fiber optic;No;Month-to-month;B;Pr;145.1825;87.63125
+1215-FIGMP;Male;No;No;No;Fiber optic;No;Month-to-month;B;Pr;137.2201;87.81005
+0526-SXDJP;Male;Yes;No;No;Fiber optic;Yes;Two year;B;Pr;85.4041;65.74205
+0557-ASKVU;Female;Yes;Yes;No;Fiber optic;No;One year;B;Pr;46.5136;29.0168
+5698-BQJOH;Female;No;No;No;Fiber optic;No;Month-to-month;B;Pr;97.5736;51.6668
+5122-CYFXA;Female;No;No;No;Fiber optic;No;Month-to-month;B;Pr;59.5209;30.72045
+8627-ZYGSZ;Male;Yes;No;No;Fiber optic;No;One year;B;Pr;106.4321;68.25605
+3410-YOQBQ;Female;No;No;No;Fiber optic;No;Two year;B;Pr;91.8664;55.8532
+3170-NMYVV;Female;Yes;Yes;No;Fiber optic;No internet service;Two year;C;Pr;51.060225;41.5301125
+7410-OIEDU;Male;No;No;No;Fiber optic;Yes;Month-to-month;C;Pr;73.160225;39.7801125
+2273-QCKXA;Male;No;No;No;Fiber optic;No;Month-to-month;C;Pr;24.999025;12.8195125
+0731-EBJQB;Female;Yes;Yes;No;Fiber optic;No internet service;One year;C;Pr;53.0416;43.1608
+1891-QRQSA;Male;Yes;Yes;No;Fiber optic;Yes;Two year;C;Pr;184.7056;112.8328
+8028-PNXHQ;Male;Yes;Yes;No;Fiber optic;No internet service;Two year;C;Pr;64.160625;51.9203125
+5630-AHZIL;Female;No;Yes;No;Fiber optic;Yes;Month-to-month;C;Pr;44.4225;23.17125
+2673-CXQEU;Female;No;No;No;Fiber optic;Yes;One year;C;Pr;174.7425;105.29125
+6416-JNVRK;Female;No;No;No;Fiber optic;No;One year;C;Pr;74.209225;51.8246125
+5590-ZSKRV;Female;Yes;Yes;No;Fiber optic;Yes;Month-to-month;C;Pr;37.386225;21.2531125
+0191-ZHSKZ;Male;No;No;No;Fiber optic;Yes;Month-to-month;C;Pr;84.075625;51.6378125
+3887-PBQAO;Female;Yes;Yes;No;Fiber optic;No internet service;One year;C;Pr;49.0081;38.90405
+5919-TMRGD;Female;No;Yes;No;Fiber optic;No;Month-to-month;C;Pr;63.904225;32.2721125
+8108-UXRQN;Female;Yes;Yes;No;Fiber optic;Yes;Month-to-month;C;Pr;35.893025;21.4665125
+9191-MYQKX;Female;Yes;No;No;Fiber optic;No;Month-to-month;C;Pr;63.055225;33.7676125
+9919-YLNNG;Female;No;No;No;Fiber optic;No;Month-to-month;C;Pr;147.2244;87.0522
+0318-ZOPWS;Female;Yes;No;No;Fiber optic;No internet service;Two year;C;Pr;50.120225;40.7401125
+4445-ZJNMU;Male;No;No;No;Fiber optic;No;Month-to-month;C;Pr;107.0649;56.41245
+4808-YNLEU;Female;Yes;No;No;Fiber optic;Yes;One year;C;Pr;71.526225;46.9631125
+1862-QRWPE;Female;Yes;Yes;No;Fiber optic;No internet service;Two year;C;Pr;49.384225;40.0521125
+2796-NNUFI;Female;Yes;Yes;No;Fiber optic;No internet service;Two year;C;Pr;47.220025;38.3300125
+7157-SMCFK;Male;No;Yes;No;Fiber optic;No internet service;Two year;C;Pr;61.240625;50.1403125
+4709-LKHYG;Female;Yes;Yes;No;Fiber optic;No internet service;One year;C;Pr;31.26;24.91
+2504-DSHIH;Male;Yes;No;No;Fiber optic;No;Month-to-month;C;Pr;96.9624;55.8412
+0699-NDKJM;Female;Yes;No;No;Fiber optic;Yes;Month-to-month;C;Pr;88.095625;62.2878125
+9286-BHDQG;Male;Yes;Yes;No;Fiber optic;Yes;Two year;C;Pr;88.155625;67.1178125
+0230-WEQUW;Male;Yes;No;No;Fiber optic;Yes;Two year;C;Pr;94.0756;68.1578
+2040-LDIWQ;Male;Yes;Yes;No;Fiber optic;No;Two year;C;Pr;131.9964;86.7982
+6496-JDSSB;Female;No;No;No;Fiber optic;No;Month-to-month;C;Pr;71.52;38.32
+9408-SSNVZ;Female;No;No;No;Fiber optic;No;Month-to-month;C;Pr;52.970225;27.7651125
+4443-EMBNA;Female;Yes;No;No;Fiber optic;No internet service;Two year;C;Pr;72.865625;59.1528125
+6469-MRVET;Male;Yes;Yes;No;Fiber optic;No internet service;One year;C;Pr;5.0204;2.8302
+0742-MOABM;Male;Yes;No;No;Fiber optic;No;Month-to-month;C;Pr;28.810025;15.6850125
+5961-VUSRV;Female;No;No;No;Fiber optic;No internet service;One year;C;Pr;15.024225;11.3521125
+6778-JFCMK;Male;No;No;No;Fiber optic;Yes;One year;C;Pr;48.1636;31.7618
+6341-JVQGF;Female;Yes;Yes;No;Fiber optic;Yes;One year;D;Pr;94.993225;57.4166125
+2232-DMLXU;Female;Yes;No;No;Fiber optic;No;Month-to-month;D;Pr;31.4104;16.0252
+4811-JBUVU;Male;No;No;No;Fiber optic;No;Month-to-month;D;Pr;109.0201;64.11005
+0945-TSONX;Female;Yes;Yes;No;Fiber optic;Yes;Two year;D;Pr;116.9409;73.51045
+2651-ZCBXV;Male;No;No;No;Fiber optic;Yes;Two year;D;Pr;167.4;100.98
+3316-UWXUY;Male;No;No;No;Fiber optic;Yes;Month-to-month;D;Ter;134.4225;83.21125
+8937-RDTHP;Male;No;No;No;Fiber optic;Yes;Month-to-month;D;Ter;72.5116;36.5758
+7083-MIOPC;Female;No;No;No;Fiber optic;No internet service;Two year;D;Ter;71.780625;58.9303125
+1984-GPTEH;Female;No;No;No;Fiber optic;No internet service;Month-to-month;D;Ter;33.585225;26.0726125
+1251-KRREG;Male;No;No;No;Fiber optic;No;Month-to-month;D;Ter;31.4736;16.3768
+0621-JFHOL;Female;No;No;No;Fiber optic;No;Two year;D;Ter;18.1616;12.2808
+9903-LYSAB;Male;Yes;No;No;Fiber optic;No;Month-to-month;D;Ter;70.429225;40.9746125
+0094-OIFMO;Female;No;No;No;Fiber optic;No;Month-to-month;D;Ter;100.59;53.815
+9227-UAQFT;Male;No;No;No;Fiber optic;No internet service;Two year;D;Ter;18.940625;14.5903125
+7301-ABVAD;Female;No;No;No;Fiber optic;No;Two year;D;Ter;142.6756;94.3778
+6614-FHDBO;Male;No;No;No;Fiber optic;No;Two year;D;Ter;186.9264;116.5032
+7576-ASEJU;Female;Yes;Yes;No;Fiber optic;Yes;One year;D;Ter;94.3409;60.29045
+9058-HRZSV;Female;Yes;No;No;Fiber optic;Yes;Month-to-month;D;Ter;150.2136;95.9068
+4522-AKYLR;Female;No;No;No;Fiber optic;No;Month-to-month;D;Ter;42.2504;25.2852
+0221-WMXNQ;Male;No;No;No;Fiber optic;Yes;Month-to-month;D;Ter;60.536225;31.5481125
+0303-UNCIP;Male;No;No;No;Fiber optic;No;One year;D;Ter;80.79;53.515
+9947-OTFQU;Male;No;No;No;Fiber optic;No;Month-to-month;D;Ter;69.4536;39.5268
+0322-YINQP;Male;No;No;No;Fiber optic;Yes;Month-to-month;D;Ter;24.511025;12.5755125
+0959-WHOKV;Male;No;No;No;Fiber optic;Yes;One year;D;Ter;137.49;82.185
+4075-JFPGR;Female;Yes;No;No;Fiber optic;Yes;One year;D;Ter;135.3625;84.00125
+4629-NRXKX;Female;Yes;Yes;No;Fiber optic;No;Month-to-month;E;Ter;51.4416;26.3608
+9514-JDSKI;Male;Yes;No;No;Fiber optic;No;Month-to-month;E;Ter;17.1004;8.8702
+3282-ZISZV;Male;No;Yes;No;Fiber optic;No;One year;E;Ter;100.1369;60.30845
+3675-YDUPJ;Male;No;No;No;Fiber optic;No internet service;Month-to-month;E;Ter;13.340225;9.8701125
+4111-BNXIF;Female;Yes;Yes;No;Fiber optic;No;Two year;E;Ter;98.442025;70.6610125
+7017-VFHAY;Female;Yes;Yes;No;Fiber optic;Yes;Two year;E;Ter;189.8201;114.43005
+6655-LHBYW;Male;No;No;No;Fiber optic;Yes;One year;E;Ter;177.759225;104.8796125
+4959-JOSRX;Female;Yes;No;No;Fiber optic;No;Month-to-month;E;Ter;21.7716;11.5258
+5046-NUHWD;Female;Yes;No;No;Fiber optic;Yes;Month-to-month;E;Ter;47.51;33.035
+7273-TEFQD;Male;No;No;No;Fiber optic;No;Month-to-month;E;Ter;19.753225;10.8366125
+3606-TWKGI;Male;No;No;No;Fiber optic;No;Month-to-month;E;Ter;126.4961;67.40805
+7529-ZDFXI;Male;Yes;No;No;Fiber optic;No;Month-to-month;E;Ter;134.310225;85.3951125
+7605-BDWDC;Female;No;No;No;Fiber optic;Yes;Two year;E;Ter;53.990225;36.9151125
+1950-KSVVJ;Female;Yes;No;No;Fiber optic;Yes;One year;E;Ter;170.6689;99.73445
+0123-CRBRT;Female;Yes;Yes;No;Fiber optic;Yes;Two year;E;Ter;134.9561;86.99805
+6292-TOSSS;Male;No;No;No;Fiber optic;No internet service;Two year;E;Ter;53.2001;42.60005
+3197-ARFOY;Female;No;No;No;Fiber optic;Yes;Month-to-month;E;Ter;128.11;70.135
+6323-AYBRX;Male;No;No;No;Fiber optic;No internet service;Two year;E;Ter;59.204225;48.4821125
+7014-ZZXAW;Female;Yes;No;No;Fiber optic;No internet service;Two year;E;Ter;72.620625;59.0303125
+4385-GZQXV;Female;No;No;No;Fiber optic;No;Month-to-month;E;Ter;104.248025;57.2440125
+7633-MVPUY;Male;Yes;No;No;Fiber optic;Yes;Two year;E;Ter;89.280625;62.8803125
+6366-ZGQGL;Male;No;No;No;Fiber optic;No;Month-to-month;E;Ter;7.0904;3.8652
+4716-HHKQH;Male;Yes;No;No;Fiber optic;No;Month-to-month;E;Ter;133.397025;73.0985125
+5940-AHUHD;Male;No;No;No;Fiber optic;No;Month-to-month;E;Ter;50.7836;25.7118
+6432-TWQLB;Male;Yes;No;No;Fiber optic;No;Month-to-month;E;Ter;77.6316;40.4158
+4484-GLZOU;Female;Yes;No;No;Fiber optic;No;Month-to-month;E;Ter;159.235025;96.2575125
+3179-GBRWV;Male;Yes;No;No;Fiber optic;No internet service;Month-to-month;E;Ter;61.925025;37.6825125
+8645-KWHJO;Male;No;No;No;Fiber optic;No internet service;Month-to-month;E;Ter;43.41;26.185
+4130-MZLCC;Female;No;No;No;Fiber optic;No;Month-to-month;E;Ter;30.253025;16.7265125
+0314-TKOSI;Female;No;No;No;Fiber optic;Yes;Month-to-month;E;Ter;36.055225;19.9476125
+8229-MYEJZ;Female;No;No;No;Fiber optic;No;Month-to-month;E;Ter;35.6144;21.0072
+2080-SRCDE;Female;No;Yes;No;Fiber optic;No internet service;Month-to-month;E;Ter;7.3916;4.0158
+9577-WJVCQ;Female;No;No;No;Fiber optic;Yes;Month-to-month;E;Ter;93.568025;68.5440125
+9512-UIBFX;Male;Yes;Yes;No;Fiber optic;No;Month-to-month;E;Ter;107.455225;59.4876125
+6202-DYYFX;Female;No;No;No;Fiber optic;No;One year;E;Ter;78.44;46.26
+3808-HFKDE;Female;No;No;No;Fiber optic;No;Month-to-month;E;Ter;38.469225;25.6346125
+5583-SXDAG;Male;Yes;No;No;Fiber optic;No;Month-to-month;E;Ter;49.94;25.29
+3488-PGMQJ;Male;No;No;No;Fiber optic;No;Month-to-month;E;Ter;63.0225;34.07125
+3580-REOAC;Male;No;No;No;Fiber optic;No;Month-to-month;E;Ter;29.515225;17.9576125
+7534-BFESC;Male;No;No;No;Fiber optic;No;Month-to-month;E;Ter;80.4721;47.91605
+3727-OWVYD;Male;No;No;No;Fiber optic;Yes;One year;E;Ter;70.3544;46.3772
+2294-SALNE;Male;Yes;Yes;No;Fiber optic;No;One year;E;Ter;96.9624;55.8412
+4847-TAJYI;Female;No;No;No;Fiber optic;No;Month-to-month;E;Ter;85.474225;44.6571125
+1563-IWQEX;Female;No;No;No;Fiber optic;No internet service;Month-to-month;E;Ter;15.1609;11.42045
+8203-XJZRC;Male;No;No;No;Fiber optic;No internet service;Month-to-month;E;Ter;5.040625;2.8403125
+6556-DBKZF;Female;Yes;Yes;No;Fiber optic;No;Two year;E;Ter;124.576025;85.0080125
+6851-WEFYX;Male;Yes;No;No;Fiber optic;No;Month-to-month;E;Ter;134.5064;78.4532
+2985-JUUBZ;Male;Yes;Yes;No;Fiber optic;No;Month-to-month;E;Ter;93.177025;59.3885125
+4913-EHYUI;Male;Yes;Yes;No;Fiber optic;Yes;One year;F;Ter;161.947025;98.8935125
+0195-IESCP;Male;Yes;No;No;Fiber optic;No;Month-to-month;F;Ter;82.075625;44.2378125
+9574-BOSMD;Male;Yes;Yes;No;No;No internet service;Two year;F;Ter;70.3716;56.9458
+4580-TMHJU;Female;Yes;Yes;No;DSL;No;Month-to-month;F;Ter;71.948225;49.7341125
+0970-ETWGE;Male;No;No;No;Fiber optic;No;Month-to-month;F;Ter;81.132025;40.8860125
+4908-XAXAY;Female;No;No;No;Fiber optic;No;One year;F;Ter;126.790225;79.0751125
+8404-VLQFB;Female;Yes;Yes;No;No;No internet service;Month-to-month;F;Ter;20.475625;15.0378125
+1626-ERCMM;Male;Yes;No;No;Fiber optic;No;Month-to-month;F;Ter;108.197025;60.4985125
+0887-HJGAR;Male;No;No;No;DSL;No;Month-to-month;F;Ter;21.8249;11.23245
+2391-IPLOP;Male;Yes;Yes;No;DSL;No;One year;F;Ter;95.511225;63.7556125
+5644-PDMZC;Female;No;No;No;Fiber optic;No;Month-to-month;F;Ter;81.9825;41.63125
+3509-GWQGF;Male;No;No;No;Fiber optic;No;Month-to-month;F;Ter;71.56;43.46
+9576-ANLXO;Female;No;No;No;Fiber optic;No;Month-to-month;F;Ter;51.192025;26.5560125
+2024-BASKD;Female;No;No;No;Fiber optic;No;Month-to-month;F;Ter;56.5916;28.6158
+5845-BZZIB;Male;Yes;Yes;No;No;No internet service;Two year;F;Ter;36.9401;29.67005
+1140-UKVZG;Female;No;No;No;No;No internet service;Month-to-month;F;Ter;22.1304;16.5052
+4160-AMJTL;Female;No;No;No;No;No internet service;Month-to-month;F;Ter;11.381225;8.2506125
+5183-SNMJQ;Male;No;No;No;Fiber optic;No;Month-to-month;G;Ter;99.8401;53.12005
+8100-PNJMH;Male;Yes;Yes;No;DSL;Yes;Two year;G;Ter;142.863225;93.1916125
+7838-LAZFO;Male;Yes;No;No;DSL;Yes;One year;G;Ter;104.3944;66.5972
+4464-JCOLN;Male;Yes;Yes;No;No;No internet service;One year;G;Ter;5.820225;3.5501125
+2085-JVGAD;Male;Yes;No;No;No;No internet service;Month-to-month;G;Ter;38.921225;31.3006125
+5650-VDUDS;Female;No;No;No;DSL;No;Month-to-month;G;Ter;9.640625;6.1003125
+8095-WANWK;Female;No;No;No;DSL;No;Month-to-month;G;Ter;29.875625;18.1378125
+3030-ZKIWL;Male;No;No;No;No;No internet service;Month-to-month;G;Ter;4.960025;2.8000125
+9565-FLVCG;Male;Yes;Yes;No;DSL;Yes;Two year;G;Ter;109.472025;75.5360125
+8755-OGKNA;Female;Yes;Yes;No;No;No internet service;Two year;G;Ter;57.3825;46.93125
+2800-VEQXM;Female;No;No;No;Fiber optic;No;Month-to-month;G;Ter;58.695625;30.3078125
+7538-GWHML;Female;No;No;No;Fiber optic;No;Month-to-month;G;Ter;50.391225;25.8356125
+5533-RJFTJ;Male;No;No;No;DSL;No;Month-to-month;G;Ter;55.1804;43.2702
+3859-CVCET;Female;No;No;No;DSL;No;Month-to-month;G;Ter;24.599225;13.5796125
+0214-JHPFW;Female;Yes;No;No;DSL;No;Two year;G;Ter;99.2084;72.0042
+5642-MHDQT;Female;Yes;Yes;No;No;No internet service;One year;G;Ter;53.760225;43.8401125
+3088-FVYWK;Male;Yes;Yes;No;No;No internet service;Two year;G;Ter;56.348025;45.1340125
+3276-HDUEG;Female;No;No;No;Fiber optic;No;Month-to-month;G;Ter;57.265025;28.9525125
+9092-GDZKO;Male;No;No;No;No;No internet service;Month-to-month;G;Ter;26.855225;20.4676125
+0823-HSCDJ;Male;No;No;No;DSL;No;Month-to-month;G;Ter;73.037225;53.1586125
+3729-OWRVL;Male;No;No;No;Fiber optic;Yes;Two year;G;Ter;182.871225;112.2356125
+2324-AALNO;Female;No;No;No;No;No internet service;One year;G;Ter;51.147025;40.9335125
+0822-GAVAP;Female;No;No;No;DSL;No;Month-to-month;G;Ter;13.9209;7.60045
+5760-IFJOZ;Male;No;No;No;Fiber optic;No;Month-to-month;G;Ter;119.352025;60.6360125
+2826-UWHIS;Male;Yes;No;No;Fiber optic;No;Month-to-month;G;Ter;108.5596;68.6798
+1448-PWKYE;Male;Yes;Yes;No;Fiber optic;No;Month-to-month;G;Ter;64.94;32.79
+7501-IWUNG;Female;Yes;Yes;No;DSL;No;Two year;G;Ter;111.8044;75.4222
+4957-TREIR;Male;No;No;No;DSL;Yes;Month-to-month;G;Ter;44.2936;23.1068
+7251-LJBQN;Female;No;No;No;Fiber optic;No;One year;G;Ter;145.240625;85.4203125
+8040-MNRTF;Female;No;No;No;Fiber optic;No;Month-to-month;G;Ter;51.4921;26.06605
+1536-HBSWP;Female;No;No;No;DSL;No;Month-to-month;G;Ter;25.8401;13.24005
+5313-FPXWG;Male;No;No;No;No;No internet service;One year;G;Ter;53.9916;43.3158
+0067-DKWBL;Male;No;No;No;DSL;Yes;Month-to-month;G;Ter;26.135625;13.7078125
+0946-FKYTX;Male;No;No;No;DSL;No;One year;G;Ter;57.9401;45.61005
+5076-YVXCM;Male;No;No;No;Fiber optic;No;Month-to-month;G;Ter;117.4956;75.0678
+8262-COGGB;Male;No;No;No;No;No internet service;Month-to-month;G;Ter;5.122025;2.8810125
+6663-JOCQO;Male;Yes;Yes;No;DSL;Yes;One year;G;Ter;85.765625;52.8028125
+9620-QJREV;Male;No;Yes;No;No;No internet service;One year;G;Ter;48.403025;39.2415125
+2276-YDAVZ;Female;No;No;No;Fiber optic;No;Month-to-month;G;Ter;59.2201;30.57005
+2682-KEVRP;Female;No;No;No;No;No internet service;One year;G;Ter;24.700025;19.3900125
+2480-JZOSN;Female;Yes;No;No;No;No internet service;Month-to-month;G;Ter;5.204225;2.9221125
+0078-XZMHT;Male;Yes;No;No;DSL;No;Two year;G;Ter;140.185225;93.1326125
+5896-NPFWW;Male;Yes;Yes;No;DSL;No;Month-to-month;H;Ter;27.970225;14.9451125
+9978-HYCIN;Male;Yes;Yes;No;Fiber optic;No;One year;H;Ter;116.345025;73.2125125
+8338-QIUNR;Male;Yes;Yes;No;DSL;Yes;Two year;H;Ter;111.9025;78.99125
+1525-LNLOJ;Male;Yes;Yes;No;DSL;No;Two year;H;Ter;102.1089;72.17445
+9450-TRJUU;Male;No;No;No;Fiber optic;No;Month-to-month;H;Ter;102.039225;62.2196125
+1766-GKNMI;Male;No;No;No;Fiber optic;No;Month-to-month;H;Ter;99.3401;58.95005
+6942-LBFDP;Female;No;No;No;No;No internet service;Month-to-month;H;Sec;6.103025;3.6915125
+1456-TWCGB;Male;No;No;No;DSL;No;Month-to-month;H;Sec;28.015625;15.2878125
+7133-VBDCG;Female;No;No;No;Fiber optic;Yes;Month-to-month;H;Sec;87.260225;51.6301125
+7596-ZYWBB;Female;No;No;No;DSL;Yes;Two year;H;Sec;96.6216;69.1108
+8329-UTMVM;Male;No;No;No;Fiber optic;No;One year;H;Sec;134.896225;76.0881125
+3014-WJKSM;Male;Yes;No;No;Fiber optic;No;Month-to-month;H;Sec;83.9609;51.26045
+3347-YJZZE;Male;Yes;Yes;No;DSL;No;Month-to-month;H;Sec;91.4201;54.99005
+1029-QFBEN;Male;No;No;No;No;No internet service;Month-to-month;H;Sec;4.762025;2.7010125
+7929-DMBCV;Female;Yes;No;No;Fiber optic;No;Month-to-month;H;Sec;84.41;48.605
+9661-JALZV;Female;No;No;No;No;No internet service;Two year;H;Sec;60.6209;48.87045
+5433-KYGHE;Female;No;Yes;No;Fiber optic;Yes;Month-to-month;H;Sec;87.12;48.04
+4312-KFRXN;Male;Yes;No;No;No;No internet service;Two year;H;Sec;74.1316;60.1058
+5575-TPIZQ;Male;No;No;No;Fiber optic;Yes;Month-to-month;H;Sec;122.717225;76.0786125
+0114-IGABW;Female;Yes;No;No;DSL;No;Two year;H;Sec;100.670625;73.0553125
+9944-AEXBM;Male;No;No;No;Fiber optic;No;Month-to-month;H;Sec;103.439225;61.9596125
+1853-ARAAQ;Female;No;No;No;DSL;No;Month-to-month;H;Sec;49.791225;33.2156125
+6952-OMNWB;Male;Yes;No;No;Fiber optic;No;Month-to-month;H;Sec;128.481225;86.0006125
+4697-LUPSU;Male;Yes;Yes;No;No;No internet service;One year;H;Sec;5.9604;3.6202
+8434-VGEQQ;Male;Yes;Yes;No;No;No internet service;Two year;H;Sec;61.563025;50.3015125
+4952-YSOGZ;Female;Yes;Yes;No;Fiber optic;No;Month-to-month;H;Sec;77.634025;40.0970125
+1589-AGTLK;Male;No;No;No;DSL;No;Month-to-month;H;Sec;23.386225;12.6531125
+5244-IRFIH;Male;Yes;No;No;Fiber optic;No;Month-to-month;I;Sec;120.3225;70.72125
+6549-YMFAW;Male;Yes;No;No;No;No internet service;Month-to-month;I;Sec;12.975625;9.3678125
+4950-HKQTE;Female;No;No;No;No;No internet service;Two year;I;Sec;27.570625;20.8253125
+6786-OBWQR;Female;Yes;Yes;No;Fiber optic;No;Month-to-month;I;Sec;70.067225;36.6336125
+2684-EIWEO;Female;No;No;No;Fiber optic;Yes;Month-to-month;I;Sec;112.2889;65.74445
+2753-JMMCV;Male;No;No;No;DSL;No;Two year;I;Sec;116.1564;78.8782
+6439-GTPCA;Female;No;No;No;Fiber optic;No;Month-to-month;I;Sec;118.425625;73.6128125
+6621-YOBKI;Male;No;No;No;No;No internet service;Month-to-month;I;Sec;8.841225;6.0206125
+1216-JWVUX;Male;Yes;Yes;No;Fiber optic;No;Month-to-month;I;Sec;80.5025;48.25125
+7564-GHCVB;Female;Yes;Yes;No;Fiber optic;Yes;Two year;I;Sec;130.169025;88.1245125
+1173-NOEYG;Female;Yes;No;No;Fiber optic;No;Month-to-month;I;Sec;106.650225;61.9651125
+7595-EHCDL;Male;Yes;Yes;No;DSL;No;Month-to-month;I;Sec;55.6836;38.0818
